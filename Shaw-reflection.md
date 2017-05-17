@@ -1,0 +1,6 @@
+What Git concepts were you struggling with prior to the GPS session?
+Knowing the terminology and having it make sense with what it does. I am getting the hang of it like: knowing when to clone and when to git push and pul. 
+What concepts were clarified during the GPS? Some were, yes. 
+What questions did you ask your pair and the guide? I asked questions regarding what command in terminal is able to ge the clone in the local repo and what makes better commit messages. 
+What still confuses you about Git? I just need to get in the rhythm  of things. I am still trying to grasp what all  the components of github are and how they all play a role since they are not very explanatory. 
+How was your first experience of pairing in a GPS? I struggled a little because i did not know what to expect and how to prepare for it. I am disappointed that I received an average score because it seems like showing that you are not super familiar or struggle with something docks and reduces the points you receive. I am trying to grasp and not let the score bother me since it is there to point out what i need to work on. I also did not have a pair in this session, so I was solo and did not have a chance to refelect ideas against my pair so I felt slightly at a disadvantage, but what can you do. Aside from that, the gps did provide helpful since he did teach me some new shortcuts. 
